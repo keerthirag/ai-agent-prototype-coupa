@@ -64,7 +64,6 @@ st.markdown("""
 
 # Main Title
 st.title("Agentic AI for Supplier Matching")
-st.subheader("An Interactive Prototype for Autonomous Supplier Matching")
 st.write("This prototype simulates an AI agent that autonomously matches buyers with suppliers based on real-world constraints.")
 
 # Tabs (including Tech Stack tab)
